@@ -1,0 +1,115 @@
+[
+    {
+        "id": 14,
+        "title": "React Employee Directory",
+        "src": "../Images/employee.png",
+        "alt": "EmployeeImg",
+        "link": "https://salty-caverns-56121.herokuapp.com/",
+        "button": "Employee DB"
+    },
+    {
+        "id": 13,
+        "title": "Online/Offline Budget Tracker",
+        "src": "../Images/budget.png",
+        "alt": "BudgetImg",
+        "link": "https://budget-app1200.herokuapp.com/",
+        "button": "Track your budget!"
+    },
+    {
+        "id": 12,
+        "title": "Workout Tracker",
+        "src": "../Images/run.png",
+        "alt": "RunImg",
+        "link": "https://workout-tracker1200.herokuapp.com/",
+        "button": "Track your exercise!"
+    },
+    {
+        "id": 11,
+        "title": "Full Stack App",
+        "src": "../Images/quarantines-logo.png",
+        "alt": "logoImg",
+        "link": "https://quarentinesover.herokuapp.com/",
+        "button": "Notes & Map App"
+    },
+    {
+        "id": 10,
+        "title": "Full Stack App",
+        "src": "../Images/burger.png",
+        "alt": "BurgerImg",
+        "link": "https://hoffman1200-burger.herokuapp.com/",
+        "button": "Burger App"
+    },
+    {
+        "id": 9,
+        "title": "Express Note Taker",
+        "src": "../Images/Notes.png",
+        "alt": "NotesImg",
+        "link": "https://mighty-sands-70355.herokuapp.com/notes",
+        "button": "Notes App"
+    },
+    {
+        "id": 8,
+        "title": "Music Man App",
+        "src": "../Images/man.png",
+        "alt": "LogoImg",
+        "link": "https://brockbatblue.github.io/Project_One/index.html",
+        "button": "Search for Lyrics!"
+    },
+    {
+        "id": 7,
+        "title": "Weather Dashboard",
+        "src": "../Images/weather.png",
+        "alt": "WeatherImg",
+        "link": "https://hoffman1200.github.io/Homework-6/",
+        "button": "Check the Weather!"
+    },
+    {
+        "id": 6,
+        "title": "Work Day Scheduler",
+        "src": "../Images/day.png",
+        "alt": "ScheduleImg",
+        "link": "https://hoffman1200.github.io/Homework-5/",
+        "button": "Organize Your Day!"
+    },
+    {
+        "id": 5,
+        "title": "Password Generator",
+        "src": "../Images/password.png",
+        "alt": "PasswordImg",
+        "link": "https://hoffman1200.github.io/Homework-3/",
+        "button": "Create a Password!"
+    },
+    {
+        "id": 4,
+        "title": "Quiz Game",
+        "src": "../Images/quiz.png",
+        "alt": "QuizImg",
+        "link": "https://hoffman1200.github.io/Homework-4/",
+        "button": "Prove your knowledge!"
+    },
+    {
+        "id": 3,
+        "title": "Rock, Paper & Scissors",
+        "src": "../Images/rps.png",
+        "alt": "RPSImg",
+        "link": "/contact",
+        "button": "Check it Out!"
+    },
+    {
+        "id": 2,
+        "title": "Random Number Generator",
+        "src": "../Images/dice.png",
+        "alt": "Dice",
+        "link": "/contact",
+        "button": "Check it Out!"
+    },
+    {
+        "id": 1,
+        "title": "Nebucat Game!",
+        "src": "https://en.scratch-wiki.info/w/images/Logo.png",
+        "alt": "ScratchImg",
+        "link": "https://scratch.mit.edu/projects/373129297",
+        "button": "Check it Out!"
+    }
+    
+]
